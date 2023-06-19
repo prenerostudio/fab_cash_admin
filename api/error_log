@@ -1,0 +1,944 @@
+[16-Sep-2022 10:16:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'fabceudj_youtube'@'localhost' (using password: NO) in /home/fabceudj/public_html/db_connection.php on line 3
+[16-Sep-2022 10:16:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fabceudj/public_html/api/users.php on line 8
+[16-Sep-2022 12:03:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[16-Sep-2022 12:03:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[16-Sep-2022 12:03:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[16-Sep-2022 12:03:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[16-Sep-2022 12:03:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[16-Sep-2022 12:03:07 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[16-Sep-2022 12:03:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 00:58:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[17-Sep-2022 00:58:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[17-Sep-2022 00:58:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[17-Sep-2022 00:58:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[17-Sep-2022 00:58:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[17-Sep-2022 00:58:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 00:58:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 02:28:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[17-Sep-2022 02:28:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[17-Sep-2022 02:28:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[17-Sep-2022 02:28:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[17-Sep-2022 02:28:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[17-Sep-2022 02:28:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 02:28:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 02:31:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[17-Sep-2022 02:31:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[17-Sep-2022 02:31:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[17-Sep-2022 02:31:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[17-Sep-2022 02:31:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[17-Sep-2022 02:31:41 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 02:31:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 02:35:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[17-Sep-2022 02:35:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[17-Sep-2022 02:35:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[17-Sep-2022 02:35:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[17-Sep-2022 02:35:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[17-Sep-2022 02:35:22 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 02:35:22 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 02:42:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[17-Sep-2022 02:42:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[17-Sep-2022 02:42:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[17-Sep-2022 02:42:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[17-Sep-2022 02:42:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[17-Sep-2022 02:42:12 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 02:42:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 07:35:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[17-Sep-2022 07:35:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[17-Sep-2022 07:35:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[17-Sep-2022 07:35:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[17-Sep-2022 07:35:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[17-Sep-2022 07:35:39 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 07:35:39 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[17-Sep-2022 12:02:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 6
+[17-Sep-2022 12:02:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 7
+[17-Sep-2022 12:02:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/singleselect.php on line 9
+[17-Sep-2022 12:02:04 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/singleselect.php on line 9
+[17-Sep-2022 12:02:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 6
+[17-Sep-2022 12:02:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 7
+[17-Sep-2022 12:02:06 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/singleselect.php on line 9
+[17-Sep-2022 12:02:06 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/singleselect.php on line 9
+[18-Sep-2022 07:22:27 America/New_York] PHP Notice:  Array to string conversion in /home/fabceudj/public_html/api/users.php on line 11
+[18-Sep-2022 08:46:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 08:46:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 08:46:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 08:46:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 08:46:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 08:46:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 08:46:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 08:46:46 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 08:46:46 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 08:46:46 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 08:46:46 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 08:46:46 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 08:46:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 08:46:46 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 08:47:38 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 08:47:38 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 08:47:38 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 08:47:38 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 08:47:38 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 08:47:38 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 08:47:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 08:48:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 08:48:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 08:48:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 08:48:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 08:48:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 08:48:34 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 08:48:34 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 08:50:17 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 08:50:17 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 08:50:17 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 08:50:17 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 08:50:17 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 08:50:17 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 16
+[18-Sep-2022 08:50:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 16
+[18-Sep-2022 08:50:50 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 08:50:50 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 08:50:50 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 08:50:50 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 08:50:50 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 08:57:10 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 08:57:10 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 08:57:10 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 08:57:10 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 08:57:10 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 08:58:00 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 08:58:00 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 08:58:00 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 08:58:00 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 08:58:00 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 08:58:40 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 08:58:40 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 08:58:40 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 08:58:40 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 08:58:40 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 08:58:40 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 08:58:57 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 08:58:57 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 08:58:57 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 08:58:57 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 08:58:57 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:02:02 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:02:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 09:02:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:02:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:02:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:02:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:02:43 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:02:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:03:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 09:03:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:03:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:03:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:03:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:13:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 09:13:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:13:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:13:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:13:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:14:34 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 09:14:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:14:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:14:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:14:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:15:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:15:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:15:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:15:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:15:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 09:15:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:15:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:15:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:15:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:15:48 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:15:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:16:30 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:16:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:19:11 America/New_York] PHP Notice:  Undefined variable: ufname in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:19:32 America/New_York] PHP Notice:  Undefined variable: ufname in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:21:11 America/New_York] PHP Notice:  Undefined variable: ufname in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:24:09 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 09:24:09 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:24:09 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:24:09 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:24:09 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:24:09 America/New_York] PHP Notice:  Undefined variable: ufname in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:28:25 America/New_York] PHP Notice:  Undefined variable: ufname in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:29:02 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 09:29:02 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:29:02 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:29:02 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:29:02 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:29:02 America/New_York] PHP Notice:  Undefined variable: ufname in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:29:13 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 09:29:13 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:29:13 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:29:13 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:29:13 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:29:13 America/New_York] PHP Notice:  Undefined variable: ufname in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:29:18 America/New_York] PHP Notice:  Undefined variable: ufname in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:29:37 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:29:37 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:29:37 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:29:37 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:29:37 America/New_York] PHP Notice:  Undefined variable: ufname in /home/fabceudj/public_html/api/userinsert.php on line 14
+[18-Sep-2022 09:30:52 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 09:30:52 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 09:30:52 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 09:30:52 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 09:31:19 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 17
+[18-Sep-2022 09:31:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 17
+[18-Sep-2022 09:31:48 America/New_York] PHP Notice:  Undefined variable: conn in /home/fabceudj/public_html/api/userinsert.php on line 17
+[18-Sep-2022 09:31:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fabceudj/public_html/api/userinsert.php on line 17
+[18-Sep-2022 11:39:34 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 11:39:34 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 11:39:34 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 11:39:34 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 11:39:34 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 11:44:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 6
+[18-Sep-2022 11:44:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 7
+[18-Sep-2022 11:49:27 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 11:49:27 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 11:49:27 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 11:49:27 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 11:49:27 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 12:02:21 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 12:02:21 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 12:02:21 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 12:02:21 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 12:02:21 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 12:12:03 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 12:12:03 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 12:12:03 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 12:12:03 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 12:12:03 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 12:15:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 6
+[18-Sep-2022 12:15:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 7
+[18-Sep-2022 12:20:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 6
+[18-Sep-2022 12:20:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 7
+[18-Sep-2022 13:31:07 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 13:31:07 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 13:31:07 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 13:31:07 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 13:31:07 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 13:31:22 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 13:31:22 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 13:31:22 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 13:31:22 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 13:31:22 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 14:28:50 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 14:28:50 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 14:28:50 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 14:28:50 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 14:28:50 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 14:29:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 6
+[18-Sep-2022 14:29:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 7
+[18-Sep-2022 14:30:28 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 14:30:28 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 14:30:28 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 14:30:28 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 14:30:28 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 14:31:01 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 14:31:01 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 14:31:01 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 14:31:01 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 14:31:01 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 14:33:50 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[18-Sep-2022 14:33:50 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[18-Sep-2022 14:33:50 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[18-Sep-2022 14:33:50 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[18-Sep-2022 14:33:50 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[18-Sep-2022 14:36:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 6
+[18-Sep-2022 14:36:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/singleselect.php on line 7
+[18-Sep-2022 14:37:40 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/singleselect.php on line 6
+[18-Sep-2022 14:37:40 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/singleselect.php on line 7
+[18-Sep-2022 14:38:31 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/singleselect.php on line 6
+[18-Sep-2022 14:38:31 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/singleselect.php on line 7
+[19-Sep-2022 00:15:38 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[19-Sep-2022 00:15:38 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[19-Sep-2022 00:15:38 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[19-Sep-2022 00:15:38 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[19-Sep-2022 00:15:38 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[19-Sep-2022 00:15:56 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[19-Sep-2022 00:15:56 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[19-Sep-2022 00:15:56 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[19-Sep-2022 00:15:56 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[19-Sep-2022 00:15:56 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[19-Sep-2022 00:18:19 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/singleselect.php on line 6
+[19-Sep-2022 00:18:19 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/singleselect.php on line 7
+[19-Sep-2022 00:19:26 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/singleselect.php on line 6
+[19-Sep-2022 00:19:26 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/singleselect.php on line 7
+[19-Sep-2022 00:35:03 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/singleselect.php on line 7
+[19-Sep-2022 00:42:50 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/singleselect.php on line 6
+[19-Sep-2022 00:42:50 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/singleselect.php on line 7
+[19-Sep-2022 00:43:13 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/singleselect.php on line 6
+[19-Sep-2022 00:43:13 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/singleselect.php on line 7
+[19-Sep-2022 08:44:37 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/forget_password.php on line 9
+[19-Sep-2022 08:44:37 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/forget_password.php on line 11
+[20-Sep-2022 10:12:07 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/forget_password.php on line 9
+[20-Sep-2022 10:12:07 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/forget_password.php on line 11
+[20-Sep-2022 10:15:36 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/edit_user_profile.php on line 8
+[20-Sep-2022 10:15:36 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/edit_user_profile.php on line 9
+[20-Sep-2022 10:15:36 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/edit_user_profile.php on line 10
+[20-Sep-2022 10:15:36 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/edit_user_profile.php on line 11
+[20-Sep-2022 10:15:36 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/edit_user_profile.php on line 12
+[20-Sep-2022 10:15:36 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/edit_user_profile.php on line 13
+[21-Sep-2022 02:43:46 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/forget_password.php on line 9
+[21-Sep-2022 02:43:46 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/forget_password.php on line 11
+[21-Sep-2022 02:45:24 America/New_York] PHP Notice:  Array to string conversion in /home/fabceudj/public_html/api/wallet_credit.php on line 18
+[21-Sep-2022 02:55:11 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[21-Sep-2022 02:56:06 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[21-Sep-2022 06:24:12 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[21-Sep-2022 06:25:41 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[21-Sep-2022 06:25:41 America/New_York] PHP Warning:  move_uploaded_file(uploads/download.jpg): failed to open stream: No such file or directory in /home/fabceudj/public_html/api/transaction_proof.php on line 40
+[21-Sep-2022 06:25:41 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1iD1n1' to 'uploads/download.jpg' in /home/fabceudj/public_html/api/transaction_proof.php on line 40
+[21-Sep-2022 06:28:03 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[21-Sep-2022 06:28:03 America/New_York] PHP Warning:  move_uploaded_file(uploads/download.jpg): failed to open stream: No such file or directory in /home/fabceudj/public_html/api/transaction_proof.php on line 40
+[21-Sep-2022 06:28:03 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpq2GXNQ' to 'uploads/download.jpg' in /home/fabceudj/public_html/api/transaction_proof.php on line 40
+[30-Sep-2022 04:19:30 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/edit_user_profile.php on line 8
+[30-Sep-2022 04:19:30 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/edit_user_profile.php on line 9
+[30-Sep-2022 04:19:30 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/edit_user_profile.php on line 10
+[30-Sep-2022 04:19:30 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/edit_user_profile.php on line 11
+[30-Sep-2022 04:19:30 America/New_York] PHP Notice:  Undefined index: u_pic in /home/fabceudj/public_html/api/edit_user_profile.php on line 12
+[30-Sep-2022 04:19:30 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/edit_user_profile.php on line 13
+[30-Sep-2022 04:19:30 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/edit_user_profile.php on line 14
+[30-Sep-2022 04:20:18 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/edit_user_profile.php on line 8
+[30-Sep-2022 04:20:18 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/edit_user_profile.php on line 9
+[30-Sep-2022 04:20:18 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/edit_user_profile.php on line 10
+[30-Sep-2022 04:20:18 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/edit_user_profile.php on line 11
+[30-Sep-2022 04:20:18 America/New_York] PHP Notice:  Undefined index: u_pic in /home/fabceudj/public_html/api/edit_user_profile.php on line 12
+[30-Sep-2022 04:20:18 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/edit_user_profile.php on line 13
+[30-Sep-2022 04:20:18 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/edit_user_profile.php on line 14
+[30-Sep-2022 04:23:35 America/New_York] PHP Notice:  Undefined index: u_pic in /home/fabceudj/public_html/api/edit_user_profile.php on line 12
+[30-Sep-2022 04:26:13 America/New_York] PHP Notice:  Undefined index: u_pic in /home/fabceudj/public_html/api/edit_user_profile.php on line 12
+[30-Sep-2022 04:28:06 America/New_York] PHP Notice:  Undefined index: u_pic in /home/fabceudj/public_html/api/edit_user_profile.php on line 12
+[30-Sep-2022 05:46:16 America/New_York] PHP Notice:  Undefined index: wallet_amount in /home/fabceudj/public_html/api/wallet_credit.php on line 8
+[30-Sep-2022 05:46:16 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/wallet_credit.php on line 9
+[30-Sep-2022 05:46:16 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[30-Sep-2022 05:47:44 America/New_York] PHP Notice:  Undefined index: wallet_amount in /home/fabceudj/public_html/api/wallet_credit.php on line 8
+[30-Sep-2022 05:47:44 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/wallet_credit.php on line 9
+[30-Sep-2022 05:47:44 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[30-Sep-2022 06:13:30 America/New_York] PHP Notice:  Undefined index: wallet_amount in /home/fabceudj/public_html/api/wallet_credit.php on line 8
+[30-Sep-2022 06:13:30 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/wallet_credit.php on line 9
+[30-Sep-2022 06:13:30 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[30-Sep-2022 06:14:45 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[30-Sep-2022 06:31:01 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/transaction_proof.php on line 9
+[30-Sep-2022 06:31:01 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[30-Sep-2022 06:31:01 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 15
+[30-Sep-2022 06:31:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/transaction_proof.php on line 15
+[30-Sep-2022 06:32:54 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/transaction_proof.php on line 9
+[30-Sep-2022 06:32:54 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[30-Sep-2022 06:32:54 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 15
+[30-Sep-2022 06:32:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/transaction_proof.php on line 15
+[02-Oct-2022 05:14:57 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/update_password.php on line 9
+[02-Oct-2022 05:15:46 America/New_York] PHP Notice:  Undefined variable: u_phone in /home/fabceudj/public_html/api/update_password.php on line 22
+[02-Oct-2022 05:56:08 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[02-Oct-2022 05:56:47 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[02-Oct-2022 05:56:47 America/New_York] PHP Warning:  move_uploaded_file(uploads/download.jpg): failed to open stream: No such file or directory in /home/fabceudj/public_html/api/update_profile_pic.php on line 38
+[02-Oct-2022 05:56:47 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvlk6Fn' to 'uploads/download.jpg' in /home/fabceudj/public_html/api/update_profile_pic.php on line 38
+[02-Oct-2022 05:57:48 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[02-Oct-2022 05:57:48 America/New_York] PHP Warning:  move_uploaded_file(uploads/download.jpg): failed to open stream: No such file or directory in /home/fabceudj/public_html/api/update_profile_pic.php on line 38
+[02-Oct-2022 05:57:48 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDYMJZO' to 'uploads/download.jpg' in /home/fabceudj/public_html/api/update_profile_pic.php on line 38
+[02-Oct-2022 06:18:28 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[02-Oct-2022 06:18:28 America/New_York] PHP Warning:  move_uploaded_file(uploads/download.jpg): failed to open stream: No such file or directory in /home/fabceudj/public_html/api/update_profile_pic.php on line 38
+[02-Oct-2022 06:18:28 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplqeKaH' to 'uploads/download.jpg' in /home/fabceudj/public_html/api/update_profile_pic.php on line 38
+[02-Oct-2022 06:19:18 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[02-Oct-2022 06:19:18 America/New_York] PHP Warning:  move_uploaded_file(uploads/download.jpg): failed to open stream: No such file or directory in /home/fabceudj/public_html/api/update_profile_pic.php on line 38
+[02-Oct-2022 06:19:18 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpziPJVH' to 'uploads/download.jpg' in /home/fabceudj/public_html/api/update_profile_pic.php on line 38
+[02-Oct-2022 06:21:00 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[02-Oct-2022 06:21:49 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[02-Oct-2022 06:53:46 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[02-Oct-2022 09:11:12 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[02-Oct-2022 09:12:02 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[02-Oct-2022 10:13:52 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/fabceudj/public_html/api/transaction_proof.php on line 67
+[02-Oct-2022 10:14:42 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/fabceudj/public_html/api/transaction_proof.php on line 67
+[02-Oct-2022 10:15:28 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[02-Oct-2022 10:21:54 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[03-Oct-2022 01:00:20 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 01:21:25 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_wallet_balance.php on line 6
+[03-Oct-2022 01:37:51 America/New_York] PHP Notice:  Undefined variable: u_phone in /home/fabceudj/public_html/api/update_password.php on line 22
+[03-Oct-2022 01:42:09 America/New_York] PHP Notice:  Undefined variable: u_phone in /home/fabceudj/public_html/api/update_password.php on line 22
+[03-Oct-2022 05:33:51 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 05:34:48 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 05:54:23 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/get_user_package_details.php on line 6
+[03-Oct-2022 05:55:53 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/get_user_package_details.php on line 6
+[03-Oct-2022 06:08:28 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 06:25:12 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 06:25:32 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 06:56:53 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 07:09:57 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 07:31:35 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 08:19:22 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 08:19:22 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:19:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:19:22 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:19:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:19:22 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:19:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:19:22 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:21:52 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 08:21:52 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:21:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:21:52 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:21:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:21:52 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:21:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:21:52 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:22:06 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 08:22:06 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:22:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:22:06 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:22:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:22:06 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:22:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:22:06 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:22:15 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 08:22:15 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:22:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:22:15 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:22:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:22:15 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:22:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:22:15 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:22:17 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 08:22:17 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:22:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:22:17 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:22:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:22:17 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:22:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:22:17 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:23:11 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 08:23:11 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:23:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:23:11 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:23:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:23:11 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:23:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:23:11 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:23:13 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 08:23:13 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:23:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:23:13 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:23:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:23:13 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:23:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:23:13 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:23:14 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 08:23:14 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:23:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:23:14 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:23:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:23:14 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:23:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:23:14 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:23:25 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 08:25:43 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:25:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:25:43 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:25:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:25:43 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:25:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:25:43 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:25:45 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:25:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:25:45 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:25:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:25:45 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:25:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:25:45 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:26:54 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:26:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:26:54 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:26:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:26:54 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:26:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:26:54 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:27:26 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:27:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:27:26 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:27:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:27:26 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:27:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:27:26 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:27:31 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:27:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:27:31 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:27:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:27:31 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:27:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:27:31 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:27:35 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:27:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 14
+[03-Oct-2022 08:27:35 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:27:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 15
+[03-Oct-2022 08:27:35 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:27:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:27:35 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/fabceudj/public_html/api/update_profile_pic.php on line 22
+[03-Oct-2022 08:28:40 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 09:06:42 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 09:12:16 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 09:14:46 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 09:19:10 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 09:26:34 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[03-Oct-2022 09:26:34 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/transaction_proof.php on line 12
+[03-Oct-2022 09:46:36 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[03-Oct-2022 09:46:36 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/transaction_proof.php on line 12
+[03-Oct-2022 09:47:42 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[03-Oct-2022 09:47:42 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/transaction_proof.php on line 12
+[03-Oct-2022 09:58:53 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[03-Oct-2022 09:58:53 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/transaction_proof.php on line 12
+[03-Oct-2022 10:35:05 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/user_withdraw.php on line 8
+[03-Oct-2022 10:35:05 America/New_York] PHP Notice:  Undefined index: amount in /home/fabceudj/public_html/api/user_withdraw.php on line 9
+[03-Oct-2022 10:35:05 America/New_York] PHP Notice:  Undefined index: banktype in /home/fabceudj/public_html/api/user_withdraw.php on line 10
+[03-Oct-2022 10:35:05 America/New_York] PHP Notice:  Undefined index: accountnumber in /home/fabceudj/public_html/api/user_withdraw.php on line 11
+[03-Oct-2022 10:35:05 America/New_York] PHP Notice:  Undefined index: status in /home/fabceudj/public_html/api/user_withdraw.php on line 12
+[03-Oct-2022 10:36:26 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/user_withdraw.php on line 8
+[03-Oct-2022 10:36:26 America/New_York] PHP Notice:  Undefined index: amount in /home/fabceudj/public_html/api/user_withdraw.php on line 9
+[03-Oct-2022 10:36:26 America/New_York] PHP Notice:  Undefined index: banktype in /home/fabceudj/public_html/api/user_withdraw.php on line 10
+[03-Oct-2022 10:36:26 America/New_York] PHP Notice:  Undefined index: accountnumber in /home/fabceudj/public_html/api/user_withdraw.php on line 11
+[03-Oct-2022 10:36:26 America/New_York] PHP Notice:  Undefined index: status in /home/fabceudj/public_html/api/user_withdraw.php on line 12
+[03-Oct-2022 10:37:39 America/New_York] PHP Notice:  Undefined index: status in /home/fabceudj/public_html/api/user_withdraw.php on line 12
+[03-Oct-2022 10:40:04 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/user_withdraw.php on line 8
+[03-Oct-2022 10:40:04 America/New_York] PHP Notice:  Undefined index: amount in /home/fabceudj/public_html/api/user_withdraw.php on line 9
+[03-Oct-2022 10:40:04 America/New_York] PHP Notice:  Undefined index: banktype in /home/fabceudj/public_html/api/user_withdraw.php on line 10
+[03-Oct-2022 10:40:04 America/New_York] PHP Notice:  Undefined index: accountnumber in /home/fabceudj/public_html/api/user_withdraw.php on line 11
+[03-Oct-2022 10:40:04 America/New_York] PHP Notice:  Undefined index: status in /home/fabceudj/public_html/api/user_withdraw.php on line 12
+[03-Oct-2022 10:48:00 America/New_York] PHP Notice:  Undefined index: status in /home/fabceudj/public_html/api/user_withdraw.php on line 12
+[03-Oct-2022 11:16:10 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[03-Oct-2022 11:16:49 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[03-Oct-2022 11:16:54 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[03-Oct-2022 11:17:01 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[03-Oct-2022 11:18:48 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[03-Oct-2022 11:23:04 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/singleselect.php on line 6
+[03-Oct-2022 11:23:04 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/singleselect.php on line 7
+[03-Oct-2022 11:31:20 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_wallet_balance.php on line 6
+[03-Oct-2022 11:31:36 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_wallet_balance.php on line 6
+[03-Oct-2022 11:32:07 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_wallet_balance.php on line 6
+[03-Oct-2022 11:51:18 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 11:54:57 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 11:56:17 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[03-Oct-2022 11:56:17 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/transaction_proof.php on line 12
+[03-Oct-2022 12:22:20 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[03-Oct-2022 12:24:45 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/transaction_proof.php on line 11
+[03-Oct-2022 12:24:45 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/transaction_proof.php on line 12
+[03-Oct-2022 12:40:11 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 12:49:44 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Oct-2022 12:55:56 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Oct-2022 14:36:15 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[18-Oct-2022 06:24:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fabceudj/public_html/db_connection.php on line 3
+[18-Oct-2022 06:24:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fabceudj/public_html/api/singleselect.php on line 10
+[18-Oct-2022 06:33:15 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/insert_watch_video.php on line 8
+[18-Oct-2022 06:33:15 America/New_York] PHP Notice:  Undefined index: v_id in /home/fabceudj/public_html/api/insert_watch_video.php on line 9
+[18-Oct-2022 06:33:15 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/insert_watch_video.php on line 10
+[18-Oct-2022 06:33:31 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/insert_watch_video.php on line 8
+[18-Oct-2022 06:33:31 America/New_York] PHP Notice:  Undefined index: v_id in /home/fabceudj/public_html/api/insert_watch_video.php on line 9
+[18-Oct-2022 06:33:31 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/insert_watch_video.php on line 10
+[18-Oct-2022 06:33:51 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/get_user_active_package.php on line 7
+[18-Oct-2022 06:34:15 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/get_user_active_package.php on line 7
+[18-Oct-2022 06:34:34 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/get_user_active_package.php on line 7
+[18-Oct-2022 06:35:06 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/single_package_detail.php on line 6
+[18-Oct-2022 06:35:37 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/spin_insert.php on line 8
+[18-Oct-2022 06:35:37 America/New_York] PHP Notice:  Undefined index: reward in /home/fabceudj/public_html/api/spin_insert.php on line 9
+[18-Oct-2022 06:35:37 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/spin_insert.php on line 10
+[19-Oct-2022 02:44:14 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:44:18 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:45:00 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:46:14 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:47:24 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:48:36 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:48:40 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:48:42 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:48:59 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:49:11 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:49:27 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:51:30 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:53:02 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:53:06 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:53:13 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:53:19 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 02:53:56 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ')' in /home/fabceudj/public_html/api/get_user_active_package.php on line 11
+[19-Oct-2022 03:04:52 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[19-Oct-2022 03:05:06 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[19-Oct-2022 03:05:20 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[19-Oct-2022 03:10:00 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/edit_user_profile.php on line 8
+[19-Oct-2022 03:10:00 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/edit_user_profile.php on line 9
+[19-Oct-2022 03:10:00 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/edit_user_profile.php on line 10
+[19-Oct-2022 03:10:00 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/edit_user_profile.php on line 11
+[19-Oct-2022 03:10:00 America/New_York] PHP Notice:  Undefined index: u_pic in /home/fabceudj/public_html/api/edit_user_profile.php on line 12
+[19-Oct-2022 03:10:00 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/edit_user_profile.php on line 13
+[19-Oct-2022 03:10:00 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/edit_user_profile.php on line 14
+[19-Oct-2022 03:11:53 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/forget_password.php on line 9
+[19-Oct-2022 03:11:53 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/forget_password.php on line 11
+[19-Oct-2022 03:12:16 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[19-Oct-2022 03:14:18 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/get_user_active_package.php on line 7
+[19-Oct-2022 03:15:11 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/get_user_package_details.php on line 6
+[19-Oct-2022 03:17:46 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[19-Oct-2022 03:22:03 America/New_York] PHP Notice:  Undefined index: video_id in /home/fabceudj/public_html/api/video_status.php on line 7
+[19-Oct-2022 03:23:22 America/New_York] PHP Notice:  Undefined index: video_id in /home/fabceudj/public_html/api/video_status.php on line 7
+[19-Oct-2022 03:37:43 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 03:46:42 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 03:47:24 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 03:48:52 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 03:49:28 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 03:49:52 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 03:52:19 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 04:21:52 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 04:28:10 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 04:40:06 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 04:40:21 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 04:49:54 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/spin_insert.php on line 10
+[19-Oct-2022 04:52:00 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[19-Oct-2022 07:42:51 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[21-Oct-2022 12:39:33 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[21-Oct-2022 12:40:18 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[21-Oct-2022 12:40:43 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[21-Oct-2022 12:40:57 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[21-Oct-2022 12:41:10 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[21-Oct-2022 12:41:23 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[21-Oct-2022 12:41:36 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[21-Oct-2022 12:42:15 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[21-Oct-2022 12:42:30 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[26-Oct-2022 10:50:21 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[26-Oct-2022 11:00:13 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[26-Oct-2022 11:01:40 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[26-Oct-2022 11:02:03 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Nov-2022 07:50:45 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Nov-2022 07:55:09 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Nov-2022 07:55:39 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:58:29 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:58:31 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:59:11 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:59:18 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:59:30 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:59:49 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:00:29 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:03:13 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:03:16 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:03:20 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:03:31 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:04:12 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:04:26 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Nov-2022 01:05:12 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[11-Nov-2022 03:02:57 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:51:08 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:51:19 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:51:30 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:52:10 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:52:33 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:52:43 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:53:20 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:54:30 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:54:44 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:55:16 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:55:27 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:55:37 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:55:48 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:55:59 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[15-Nov-2022 23:56:09 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[16-Nov-2022 03:01:31 America/New_York] PHP Notice:  Undefined index: u_fname in /home/fabceudj/public_html/api/userinsert.php on line 8
+[16-Nov-2022 03:01:31 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/userinsert.php on line 9
+[16-Nov-2022 03:01:31 America/New_York] PHP Notice:  Undefined index: u_dob in /home/fabceudj/public_html/api/userinsert.php on line 10
+[16-Nov-2022 03:01:31 America/New_York] PHP Notice:  Undefined index: u_pass in /home/fabceudj/public_html/api/userinsert.php on line 11
+[16-Nov-2022 03:01:31 America/New_York] PHP Notice:  Undefined index: u_status in /home/fabceudj/public_html/api/userinsert.php on line 12
+[16-Nov-2022 03:01:31 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 03:46:21 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 03:48:37 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 04:06:35 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 04:08:29 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 04:22:03 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 04:25:56 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 04:26:00 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[16-Nov-2022 04:40:49 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/wallet_credit.php on line 9
+[16-Nov-2022 04:40:49 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[16-Nov-2022 04:47:13 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_wallet_balance.php on line 6
+[16-Nov-2022 04:58:49 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 05:00:18 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 05:00:20 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/wallet_credit.php on line 9
+[16-Nov-2022 05:00:20 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[16-Nov-2022 05:05:52 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 05:05:54 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/wallet_credit.php on line 9
+[16-Nov-2022 05:05:54 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[16-Nov-2022 05:10:55 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 05:11:34 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 05:11:38 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/wallet_credit.php on line 9
+[16-Nov-2022 05:11:38 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[16-Nov-2022 05:27:50 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 05:27:52 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/wallet_credit.php on line 9
+[16-Nov-2022 05:27:52 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[16-Nov-2022 05:31:45 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 05:31:48 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[16-Nov-2022 08:21:03 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[16-Nov-2022 08:21:04 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[16-Nov-2022 08:21:31 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[16-Nov-2022 08:37:42 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[16-Nov-2022 08:41:16 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[17-Nov-2022 15:06:41 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[17-Nov-2022 15:06:43 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[22-Nov-2022 02:05:59 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[22-Nov-2022 02:06:35 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[22-Nov-2022 02:30:03 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[22-Nov-2022 02:30:04 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[22-Nov-2022 02:30:04 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[22-Nov-2022 02:30:20 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 10:05:21 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:10:52 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:12:14 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:12:27 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:12:53 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:13:05 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:22:49 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:23:03 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:23:15 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:25:26 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:25:40 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:25:52 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:26:07 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:26:19 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:26:34 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:26:48 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:27:01 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:27:13 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:27:46 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:27:57 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:28:10 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:28:35 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:28:48 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:29:18 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:29:30 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:29:42 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:30:17 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:30:33 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:32:45 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:33:02 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:33:18 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Nov-2022 11:33:29 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[24-Nov-2022 14:00:33 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/daily_spin.php on line 9
+[24-Nov-2022 14:00:33 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/daily_spin.php on line 10
+[24-Nov-2022 14:01:24 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/daily_spin.php on line 9
+[24-Nov-2022 14:01:24 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/daily_spin.php on line 10
+[24-Nov-2022 14:17:47 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/daily_spin.php on line 9
+[24-Nov-2022 14:17:47 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/daily_spin.php on line 10
+[25-Nov-2022 00:32:17 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 00:32:54 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 01:17:47 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 01:18:13 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 06:18:03 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:06 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:06 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:08 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:08 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:08 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:08 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:08 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:09 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:23 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:24 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:24 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:25 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:25 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:51 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:52 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:52 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:52 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:53 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:53 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:14:53 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:18:23 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:18:25 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:18:25 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:18:26 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:18:27 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:18:27 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:18:29 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:20:03 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:20:04 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:20:04 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:20:04 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:20:05 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:20:05 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:20:05 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:31:27 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[25-Nov-2022 22:31:28 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[26-Nov-2022 09:41:04 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[27-Nov-2022 10:55:29 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[29-Nov-2022 23:43:27 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[29-Nov-2022 23:43:29 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Dec-2022 04:58:50 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/daily_spin.php on line 9
+[03-Dec-2022 04:58:50 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/daily_spin.php on line 10
+[03-Dec-2022 05:24:39 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/daily_spin.php on line 10
+[03-Dec-2022 05:24:52 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/daily_spin.php on line 10
+[03-Dec-2022 05:27:04 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/daily_spin.php on line 10
+[03-Dec-2022 05:30:54 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[03-Dec-2022 05:30:56 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Dec-2022 05:33:22 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/check_daily_spin_status.php on line 9
+[03-Dec-2022 05:33:22 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/check_daily_spin_status.php on line 10
+[03-Dec-2022 05:33:52 America/New_York] PHP Notice:  Undefined index: fileToUpload in /home/fabceudj/public_html/api/update_profile_pic.php on line 11
+[03-Dec-2022 05:35:28 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Dec-2022 05:46:36 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 12:07:55 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[04-Dec-2022 12:07:58 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:14:25 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:16:36 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:16:36 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:16:37 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:16:38 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:16:38 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:19:29 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:19:29 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:19:30 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:19:30 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:19:31 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:19:31 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:19:32 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:22:02 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:22:40 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:23:35 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:27:01 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:30:20 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:31:17 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:32:52 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:35:13 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:39:12 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Dec-2022 13:47:01 America/New_York] PHP Notice:  Undefined index: wallet_amount in /home/fabceudj/public_html/api/wallet_credit.php on line 8
+[04-Dec-2022 13:47:01 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/wallet_credit.php on line 9
+[04-Dec-2022 13:47:01 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[14-Dec-2022 04:11:08 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/get_user_package_details.php on line 6
+[14-Dec-2022 04:23:57 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/buy_package.php on line 8
+[14-Dec-2022 04:23:57 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/buy_package.php on line 9
+[14-Dec-2022 04:23:57 America/New_York] PHP Notice:  Undefined index: package_name in /home/fabceudj/public_html/api/buy_package.php on line 10
+[14-Dec-2022 04:23:57 America/New_York] PHP Notice:  Undefined index: package_days in /home/fabceudj/public_html/api/buy_package.php on line 11
+[14-Dec-2022 04:23:57 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 09:52:49 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[14-Dec-2022 09:52:49 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/get_videos.php on line 8
+[14-Dec-2022 10:59:34 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[14-Dec-2022 10:59:34 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/get_videos.php on line 8
+[14-Dec-2022 11:15:57 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[14-Dec-2022 11:15:57 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/get_videos.php on line 8
+[14-Dec-2022 11:16:10 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[14-Dec-2022 11:16:10 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/get_videos.php on line 8
+[14-Dec-2022 11:25:26 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 11:25:41 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 11:30:23 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 11:31:12 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 11:31:13 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 11:31:57 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 11:32:23 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 11:34:59 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 11:39:09 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 11:39:27 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[14-Dec-2022 11:39:47 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[15-Dec-2022 06:10:28 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[23-Dec-2022 11:42:44 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Dec-2022 11:43:00 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[23-Dec-2022 11:45:37 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[23-Dec-2022 11:51:46 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[27-Dec-2022 14:03:43 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/user_topup.php on line 8
+[27-Dec-2022 14:03:43 America/New_York] PHP Notice:  Undefined index: amount in /home/fabceudj/public_html/api/user_topup.php on line 9
+[27-Dec-2022 14:03:43 America/New_York] PHP Notice:  Undefined index: banktype in /home/fabceudj/public_html/api/user_topup.php on line 10
+[27-Dec-2022 14:03:43 America/New_York] PHP Notice:  Undefined index: accountnumber in /home/fabceudj/public_html/api/user_topup.php on line 11
+[27-Dec-2022 14:03:43 America/New_York] PHP Notice:  Undefined index: trans_id in /home/fabceudj/public_html/api/user_topup.php on line 12
+[27-Dec-2022 14:03:52 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/user_topup.php on line 8
+[27-Dec-2022 14:03:52 America/New_York] PHP Notice:  Undefined index: amount in /home/fabceudj/public_html/api/user_topup.php on line 9
+[27-Dec-2022 14:03:52 America/New_York] PHP Notice:  Undefined index: banktype in /home/fabceudj/public_html/api/user_topup.php on line 10
+[27-Dec-2022 14:03:52 America/New_York] PHP Notice:  Undefined index: accountnumber in /home/fabceudj/public_html/api/user_topup.php on line 11
+[27-Dec-2022 14:03:52 America/New_York] PHP Notice:  Undefined index: trans_id in /home/fabceudj/public_html/api/user_topup.php on line 12
+[27-Dec-2022 14:05:24 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/user_topup.php on line 8
+[27-Dec-2022 14:05:24 America/New_York] PHP Notice:  Undefined index: amount in /home/fabceudj/public_html/api/user_topup.php on line 9
+[27-Dec-2022 14:05:24 America/New_York] PHP Notice:  Undefined index: banktype in /home/fabceudj/public_html/api/user_topup.php on line 10
+[27-Dec-2022 14:05:24 America/New_York] PHP Notice:  Undefined index: accountnumber in /home/fabceudj/public_html/api/user_topup.php on line 11
+[27-Dec-2022 14:05:24 America/New_York] PHP Notice:  Undefined index: trans_id in /home/fabceudj/public_html/api/user_topup.php on line 12
+[27-Dec-2022 14:06:44 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/user_topup.php on line 8
+[27-Dec-2022 14:06:44 America/New_York] PHP Notice:  Undefined index: amount in /home/fabceudj/public_html/api/user_topup.php on line 9
+[27-Dec-2022 14:06:44 America/New_York] PHP Notice:  Undefined index: banktype in /home/fabceudj/public_html/api/user_topup.php on line 10
+[27-Dec-2022 14:06:44 America/New_York] PHP Notice:  Undefined index: accountnumber in /home/fabceudj/public_html/api/user_topup.php on line 11
+[27-Dec-2022 14:06:44 America/New_York] PHP Notice:  Undefined index: trans_id in /home/fabceudj/public_html/api/user_topup.php on line 12
+[27-Dec-2022 14:07:05 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/user_topup.php on line 8
+[27-Dec-2022 14:07:05 America/New_York] PHP Notice:  Undefined index: amount in /home/fabceudj/public_html/api/user_topup.php on line 9
+[27-Dec-2022 14:07:05 America/New_York] PHP Notice:  Undefined index: banktype in /home/fabceudj/public_html/api/user_topup.php on line 10
+[27-Dec-2022 14:07:05 America/New_York] PHP Notice:  Undefined index: accountnumber in /home/fabceudj/public_html/api/user_topup.php on line 11
+[27-Dec-2022 14:07:05 America/New_York] PHP Notice:  Undefined index: trans_id in /home/fabceudj/public_html/api/user_topup.php on line 12
+[28-Dec-2022 01:32:59 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[28-Dec-2022 01:34:36 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[28-Dec-2022 01:36:13 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[28-Dec-2022 01:38:53 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[28-Dec-2022 01:40:33 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[28-Dec-2022 01:42:14 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[28-Dec-2022 01:44:18 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[28-Dec-2022 10:34:59 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[31-Dec-2022 11:28:36 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[31-Dec-2022 11:28:48 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[31-Dec-2022 11:29:35 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[31-Dec-2022 11:29:44 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[31-Dec-2022 11:29:51 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[31-Dec-2022 11:29:53 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[31-Dec-2022 11:29:57 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[31-Dec-2022 11:29:57 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[01-Jan-2023 06:17:49 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[01-Jan-2023 06:19:20 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[01-Jan-2023 06:19:28 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[01-Jan-2023 06:19:31 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[02-Jan-2023 06:36:09 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[02-Jan-2023 06:36:09 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/get_videos.php on line 8
+[02-Jan-2023 06:36:15 America/New_York] PHP Notice:  Undefined index: u_id in /home/fabceudj/public_html/api/get_user_package_details.php on line 6
+[02-Jan-2023 06:40:35 America/New_York] PHP Notice:  Undefined index: u_phone in /home/fabceudj/public_html/api/get_videos.php on line 7
+[02-Jan-2023 06:40:35 America/New_York] PHP Notice:  Undefined index: package_id in /home/fabceudj/public_html/api/get_videos.php on line 8
+[02-Jan-2023 08:49:45 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[02-Jan-2023 11:17:43 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[02-Jan-2023 11:19:47 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[02-Jan-2023 11:24:49 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[02-Jan-2023 11:27:29 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Jan-2023 03:34:31 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Jan-2023 03:34:54 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[03-Jan-2023 03:35:51 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 07:01:56 America/New_York] PHP Notice:  Undefined index: u_referal in /home/fabceudj/public_html/api/userinsert.php on line 13
+[04-Jan-2023 07:02:01 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Jan-2023 07:09:34 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 07:09:34 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:10:13 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 07:10:13 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:10:14 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 07:10:14 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:12:09 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 07:12:09 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:19:05 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:19:59 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:19:59 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:19:59 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:19:59 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:20:00 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:20:01 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 07:26:17 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Jan-2023 07:27:59 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Jan-2023 07:30:06 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Jan-2023 07:31:54 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[04-Jan-2023 11:19:29 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 11:19:29 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 11:19:34 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 11:19:34 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 11:19:34 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 11:19:34 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 11:19:34 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 11:19:34 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 11:19:34 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 11:19:34 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 11:19:34 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 11:19:34 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 11:21:06 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 11:21:06 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 11:21:15 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 11:21:15 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 11:23:52 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 11:23:52 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[04-Jan-2023 11:33:10 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[04-Jan-2023 11:33:10 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[06-Jan-2023 06:16:29 America/New_York] PHP Notice:  Undefined index: _v_id in /home/fabceudj/public_html/api/wallet_credit.php on line 10
+[06-Jan-2023 06:23:06 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[06-Jan-2023 06:24:51 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[06-Jan-2023 06:31:17 America/New_York] PHP Notice:  Undefined index: package_price in /home/fabceudj/public_html/api/buy_package.php on line 12
+[06-Jan-2023 06:31:17 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[06-Jan-2023 06:38:31 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[06-Jan-2023 06:40:06 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[06-Jan-2023 09:39:57 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
+[06-Jan-2023 09:40:07 America/New_York] PHP Notice:  Undefined index: date in /home/fabceudj/public_html/api/buy_package.php on line 13
